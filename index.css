@@ -17,16 +17,18 @@ dl, dt, dd, ol, ul, li, fieldset, form, label, legend {
 	outline: 0;
 	}
 
-
-
-
 *{
     padding:0;
     margin:0;
     box-sizing: border-box;
     max-width:100%;
 }
-
+.campfire{
+    width: 25%;
+}
+.camper{
+    width:25%;
+}
 
 
 html{
@@ -124,4 +126,3 @@ footer{
     background-color:#F9E7DC;
 }
 
-}
